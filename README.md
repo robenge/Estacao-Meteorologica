@@ -1,0 +1,1 @@
+O objetivo desse projeto é aplicar os conhecimentos de eletrônica e programação adquirido ao longo deste material de apoio para criação de uma estação meteorológica IoT, capaz de enviar informações sobre a temperatura, umidade, pressão absoluta, pressão relativa, qualidade do ar e detecção de chuva.
